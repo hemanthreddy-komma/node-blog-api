@@ -21,7 +21,7 @@ This repository contains a simple Node.js blog API developed for educational pur
 Install MongoDb Database
 
 ```bash
-git clone git@github.com:jahidhiron/node-blog-api.git
+git clone git@github.com:hemanthreddy-komma/node-blog-api.git
 cd node-blog-api
 npm install
 ```
